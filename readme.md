@@ -8,7 +8,6 @@
 + getValued(): 返回double 类型的值
 + printValue():直接打印存储的数据
 + tenTimes(): 返回原数的10倍（比乘10快）
-## 
 ## 注 
 + testPi : 一个demo,计算高精度pi 
 ```c++
@@ -33,5 +32,5 @@ int main() {
 	return 0;
 }
 ```
-
++ 可通过更改LinkN.h 中MaxComm 的值改变精确度（小数点后位数）
 
